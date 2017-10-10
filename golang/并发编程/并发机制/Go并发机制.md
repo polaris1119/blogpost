@@ -1,3 +1,5 @@
+# Go并发机制
+
 ### 1. C/C++ 与 Go语言的“价值观”对照
 之前看过 白明老师 在GopherChina2017的一篇演讲文章[《Go coding in go way》](http://tonybai.com/2017/04/20/go-coding-in-go-way/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)，里面提到C/C++/Go三门语言价值观，感觉很有意思，分享给大家感受一下：
 
